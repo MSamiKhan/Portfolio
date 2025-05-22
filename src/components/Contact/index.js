@@ -139,7 +139,7 @@ const Contact = () => {
       return;
     }
   
-    emailjs.sendForm('service_4u4nx3d', 'template_2xbgpqt', form.current, 'swdODUB_bfmu5FnjG')
+    emailjs.sendForm('service_z6s86mg', 'template_1qc968o', form.current, 'Ok6w0fWWl7Zd27K3e')
       .then((result) => {
         console.log(result.text);
         setOpen(true);
