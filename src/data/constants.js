@@ -2,10 +2,7 @@ export const Bio = {
   name: "Muhammad Sami",
   roles: [
     "Software Engineer",
-    "AI Engineer",
     "ML Engineer",
-    "Data Scientist",
-    "Freelancer",
   ],
   description:
     "I'm Muhammad Sami, a Machine Learning Engineer with expertise in Python, C++, Computer Vision, and Data Science. I specialize in building intelligent systems from image captioning models to real-time vision applications using cutting-edge tools like Transformers and deep learning frameworks. Explore my portfolio to see how I bring AI ideas to life.",
@@ -158,7 +155,7 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/v2/D4D0BAQFWE0GzGsn2sw/img-crop_100/img-crop_100/0/1726069329459?e=1753315200&v=beta&t=YBJvZPo1O6pcPOoY9HALIQtGFnvezFXUD22B_YxC4hI", // Placeholder image, replace if needed
     role: "Associate ML Engineer",
     company: "Deutics Global",
-    date: "January 2025 - Present",
+    date: "May 2025 - Present",
     desc: "At Deutics Global, I am working as an Associate Machine Learning Engineer, contributing to the design and deployment of ML pipelines, developing scalable models for real-world applications, and collaborating with cross-functional teams to integrate AI solutions into production.",
     skills: ["Python", "Scikit-learn", "TensorFlow", "Pandas", "Git", "REST APIs"],
   },
