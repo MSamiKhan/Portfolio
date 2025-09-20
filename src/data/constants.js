@@ -8,7 +8,7 @@ export const Bio = {
     "I'm Muhammad Sami, a Machine Learning Engineer with expertise in Python, C++, Computer Vision, and Data Science. I specialize in building intelligent systems from image captioning models to real-time vision applications using cutting-edge tools like Transformers and deep learning frameworks. Explore my portfolio to see how I bring AI ideas to life.",
   github: "https://github.com/MSamiKhan",
   resume:
-    "https://drive.google.com/file/d/1UAgBH7QepFLNoiBcenxXdqX6hoYgCYMa/view?usp=sharing",
+    "https://drive.google.com/file/d/1wmpIg6T4SeF-sVwrE4tPCRih8JGLjv8r/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/muhammadsam/",
   // twitter: "https://x.com/MehdiKhosa50",
 };
